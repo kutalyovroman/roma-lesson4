@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC&family=Vollkorn:ital@1&display=swap');
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+html {
+	font-size: 16px;
+}
+body {
+	line-height: 1;
+}
+.wrapper {
+	
+}
+.header__title {
+}
+.title {
+	text-align: center;
+	font-weight: 900;
+	font-size: 30px;
+	color: crimson;
+	font-family: 'Vollkorn', serif;
+}
+.header__content {
+}
+.text {
+	line-height: 166.666%;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	margin: 10px 30px 5px 30px;
+}
+.bold {
+	font-weight: bold;
+	color: crimson;
+}
+.red {
+	color: red;
+	text-shadow: black;
+}
+.blue {
+	color: blue;
+}
+.header__navigation {
+}
+.header__name {
+	font-family: 'Vollkorn', serif;
+	font-size: 25px;
+	color: crimson;
+	padding: 0px 0px 0px 30px;
+}
+.header__list {
+}
+.list {
+	font-family: 'Vollkorn SC', serif;
+	padding: 0px 0px 0px 30px;
+
+}
+.img {
+	text-align: center;
+}
+.storyline {
+}
+.storyline__title {
+}
+.storyline__content {
+}
+.story__text {
+}
+.books {
+}
+.books__title {
+}
+.books__content {
+}
+.books__list {
+}
+.books__text {
+}
+.properties {
+}
+.properties__title {
+}
+.properties__content {
+}
+.properties__text {
+}
+.evaluations {
+}
+.evaluations__title {
+}
+.evaluations__content {
+}
+.evalutions__text {
+}
+.adaptaitons {
+}
+.adaptations__title {
+}
+.adaptations__content {
+}
+.adaptations__text {
+}
+.games {
+}
+.games__title {
+}
+.games__content {
+}
+.games__text {
+}
+.serials {
+}
+.serials__title {
+}
+.serials__content {
+}
+.serials__text {
+}
+.netflix {
+	color: red;
+	font-family: 'Bebas Neue', cursive;
+}
+.otherbooks {
+}
+.otherbooks__title {
+}
+.otherbooks__content {
+}
+.otherbooks__text {
+}
+.more {
+}
+.more__title {
+}
+.more__content {
+}
+.more__list {
+}
+.links {
+}
+.links__content {
+}
+.links__list {
+}
+.notes {
+}
+.notes__content {
+}
+.notes__list {
+}
+.footer__content {
+}
+.footer__text {
+}
